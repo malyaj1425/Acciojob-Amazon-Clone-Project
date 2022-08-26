@@ -1,0 +1,16 @@
+:root{
+    --major-bg-color:#131921;
+    --minor-bg-color:#ebeded;
+    --amazon-major-color:#febd68;
+}
+.header-button{
+    width:40px;
+    height: 40px;
+    background-color:var(--amazon-major-color);
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: #232323;
+}
